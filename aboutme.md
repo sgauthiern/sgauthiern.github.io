@@ -14,4 +14,4 @@ Je suis assez fantastique dans le fond!
 
 ### Mon histoire
 
-Je suis née à Laval, donc le trafic ça ne me fait pas peur! Mais honnêtement si vous voulez plus d'informations sur [ma ville](https://fr.wikipedia.org/wiki/Laval_(Qu%C3%A9bec)) ça va répondre à *toutes* vos questions.
+Je suis née à Laval, donc le trafic ça ne me fait pas peur! Mais honnêtement si vous voulez plus d'informations sur [ma ville](https://fr.wikipedia.org/wiki/Laval_(Qu%C3%A9bec)), ça va répondre à *toutes* vos questions.
