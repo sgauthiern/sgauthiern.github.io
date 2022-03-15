@@ -1,16 +1,17 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: À propos de moi
+subtitle: Les raisons qui font de moi une personne exceptionnelle
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Mon nom est Catherine L'Abbé. J'ai les qualités suivantes:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Je fais des beaux bébés
+- Je dis des *wow wow wow* quand je suis très impressionnée
+- J'achète des chips à mon chum
 
-What else do you need?
+Je suis assez fantastique dans le fond!
 
-### My story
+### Mon histoire
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Je suis née à Laval, donc le trafic ça ne me fait pas peur! Mais honnêtement si vous voulez plus d'informations sur [ma ville](https://fr.wikipedia.org/wiki/Laval_(Qu%C3%A9bec)) ça va répondre à *toutes* vos questions.
