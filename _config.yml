@@ -14,11 +14,10 @@ author: Catherine L'Abbé
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://catherinelabbe.com"
+  A propos de moi: "aboutme"
+  Ressources:
+    - Thé Glacé: "https://fr.nestea.ca/produits/TheGlaceAuCitron"
+    - Coke Diet: "https://www.dietcoke.com/products/diet-coke"
 
 # --- Logo --- #
 
