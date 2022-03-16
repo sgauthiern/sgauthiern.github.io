@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Catherine en maternité
-subtitle: Chaque journée amène plus de beauté au monde entier
+subtitle: Chaque jour amène plus de beauté au monde entier
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
