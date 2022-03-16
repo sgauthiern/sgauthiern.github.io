@@ -4,6 +4,7 @@
 # the initial set up you won't need to come back to this file often.
 
 # --- Required options --- #
+theme: beautiful-jekyll-theme
 
 # Name of website
 title: Le meilleur site web du monde
@@ -250,6 +251,7 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+#  - beautiful-jekyll-theme
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
