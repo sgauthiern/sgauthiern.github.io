@@ -6,6 +6,8 @@
 # --- Required options --- #
 theme: beautiful-jekyll-theme
 
+baseurl: "http://catherinelabbe.com/"
+
 # Name of website
 title: Le meilleur site web du monde
 
